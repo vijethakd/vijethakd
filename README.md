@@ -1,7 +1,9 @@
+<img align="center" alt="Hello World!" width="500" src="https://user-images.githubusercontent.com/31812582/118072005-93d46980-b3c6-11eb-9afd-629b4f706a56.gif"/>
 <h1 align="center">Hi 👋, I'm VIJETHA DEVADIGA</h1>
 <h3 align="center">A passionate towards Full Stack Development</h3>
 
 - 🌱 I’m currently learning **Reactjs**
+- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
